@@ -2,4 +2,8 @@
       color: red;
       font-size: larger;
       font-style: italic;
+      background-color: black;
+}
+.pip{
+      color: greenyellow;
 }
