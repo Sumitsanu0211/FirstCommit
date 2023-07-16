@@ -4,12 +4,13 @@
       font-style: italic;
       background-color: blue;
 }
-.pip{
-      color: greenyellow;
-}
+
 .btn{
     height: 7vh;
     width: 13vw;
     border: 2px solid purple;
-    border-radius: 15px;  
+    border-radius: 15px;
+    background-color: aqua; 
+    font-size: 2rem;
+    font-weight: bolder; 
 }
